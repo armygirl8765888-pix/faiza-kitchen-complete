@@ -1,0 +1,1 @@
+If deploying to Netlify, create client/public/_redirects containing: /* /index.html 200
